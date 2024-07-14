@@ -3,9 +3,9 @@
 namespace Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
-use KhaledSadek\BladeBoringAvatars\Components\Avatar;
+use ATereshchuk\BladeBoringAvatars\Components\Avatar;
 use Illuminate\Foundation\Testing\Concerns\InteractsWithViews;
-use KhaledSadek\BladeBoringAvatars\BladeBoringAvatarsServiceProvider;
+use ATereshchuk\BladeBoringAvatars\BladeBoringAvatarsServiceProvider;
 
 class AvatarTest extends Orchestra
 {
