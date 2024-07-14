@@ -14,7 +14,7 @@ class Avatar extends Component
 
     public $avatarData = [];
 
-    public function __construct(int $size = 40, string $name = "Clara Barton", ?array $colors = null)
+    public function __construct(int $size = 40, string $name = "John Doe", ?array $colors = null)
     {
         $this->size = $size;
         $this->name = $name;
