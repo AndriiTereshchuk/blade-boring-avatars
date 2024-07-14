@@ -1,5 +1,5 @@
 <?php
-namespace KhaledSadek\BladeBoringAvatars;
+namespace ATereshchuk\BladeBoringAvatars;
 
 class Helper
 {
