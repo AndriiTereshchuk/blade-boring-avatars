@@ -34,7 +34,7 @@ Props:
 Basic usage (with default props):
 
 ```html
-<Avatar />
+<x-avatar />
 ```
 
 With props:
@@ -44,7 +44,7 @@ With props:
       view.blade.php
       Where $colors is php valid array
   -->
-  <Avatar size="80" name="Khaled Sadek" :colors="$colors" />
+  <x-avatar size="80" name="Khaled Sadek" :colors="$colors" />
 ```
 
 ## Credits
