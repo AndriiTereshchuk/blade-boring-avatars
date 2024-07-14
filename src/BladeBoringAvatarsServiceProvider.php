@@ -26,6 +26,6 @@ class BladeBoringAvatarsServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->loadViewsFrom(__DIR__.'/../resources/views/components', 'blade-boring-avatars');
-        Blade::component('Avatar', Avatar::class);
+        Blade::component('avatar', Avatar::class);
     }
 }
