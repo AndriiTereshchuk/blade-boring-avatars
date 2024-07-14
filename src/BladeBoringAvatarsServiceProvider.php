@@ -1,10 +1,10 @@
 <?php
 
-namespace KhaledSadek\BladeBoringAvatars;
+namespace ATereshchuk\BladeBoringAvatars;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
-use KhaledSadek\BladeBoringAvatars\Components\Avatar;
+use ATereshchuk\BladeBoringAvatars\Components\Avatar;
 
 class BladeBoringAvatarsServiceProvider extends ServiceProvider
 {
