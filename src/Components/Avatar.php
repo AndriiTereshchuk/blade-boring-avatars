@@ -1,8 +1,8 @@
 <?php
-namespace KhaledSadek\BladeBoringAvatars\Components;
+namespace ATereshchuk\BladeBoringAvatars\Components;
 
 use Illuminate\View\Component;
-use KhaledSadek\BladeBoringAvatars\Helper;
+use ATereshchuk\BladeBoringAvatars\Helper;
 
 class Avatar extends Component
 {
